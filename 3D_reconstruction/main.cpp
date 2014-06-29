@@ -26,7 +26,7 @@
 
   // The following reader is used to read a series of 2D slices (images) that compose the volume.
     vtkDICOMImageReader *imageseries = vtkDICOMImageReader::New();
-    imageseries->SetDirectoryName("D:/S20");
+    imageseries->SetDirectoryName(argv[1]);
   //  imageseries->SetFileNameSliceOffset(1);
     imageseries->SetDataSpacing (3.2, 3.2, 1.5);
 
