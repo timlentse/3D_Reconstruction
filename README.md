@@ -4,4 +4,4 @@
 A Program Written in QT using VTK for 3DReconstruction 
 
 ##Screenshot
-![alt tag](https://github.com/timlentse/3D_Reconstruction/blob/master/screenshot.png)
+![alt tag](https://raw.githubusercontent.com/timlentse/3D_Reconstruction/master/screenshot.png)
