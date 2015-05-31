@@ -1,5 +1,4 @@
 # 3D Reconstruction
-=================
 
 **A Program Written in QT using VTK libraries to perform 3D-Reconstruction**
 
